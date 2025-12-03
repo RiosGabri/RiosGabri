@@ -42,10 +42,10 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante de **Ciência da Computação** 
 
 ## 📈 Estatísticas do GitHub
 
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiosGabri&show_icons=true&theme=tokyonight)
 
-![RiosGabri](https://github-readme-stats.vercel.app/api?username=RIOSGABRI&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiosGabri&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIOSGABRI&layout=compact&theme=tokyonight)
 ---
 
 ## ✉️ Contato
