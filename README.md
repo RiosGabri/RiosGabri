@@ -45,7 +45,6 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante de **Ciência da Computação** 
 
 ## 📗 Projetos em destaque
 
-- **Curso-C-CesarSchool**: Exercícios e projetos em C para fundamentos de programação.
 - **Python_FP**: Scripts em Python para exercícios e automação.
 - **HTML__CSS**: Estudos de estruturação de páginas web e estilização.
 - **Adoção+**: Plataforma para cadastro e gerenciamento de animais, feita com Python + Flask + HTML/CSS. O projeto foi pensado para funcionar tanto no terminal quanto com interface web — implementando operações de CRUD (Create, Read, Update, Delete) para entidades de animais e demonstrando integração entre backend e interface.
