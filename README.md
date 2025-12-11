@@ -1,6 +1,6 @@
 # Olá, pessoal! 👋
 
-Sou **Gabriel Parméra (RiosGabri)**, estudante de **Ciência da Computação** com foco em **Desenvolvimento Full Stack**. Busco evoluir em Python, C, JavaScript, HTML e CSS, aplicando esses conhecimentos em projetos acadêmicos, web, automação e lógica.
+Sou **Gabriel Parméra (RiosGabri)**, estudante de **Ciência da Computação** com foco em trabalho **Desenvolvimento BackEnd**. Busco evoluir em Python, C, JavaScript, HTML e CSS, aplicando esses conhecimentos em projetos acadêmicos, web, automação e lógica.
 
 ---
 
