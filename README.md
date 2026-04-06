@@ -55,16 +55,16 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante de **Ciência da Computação** 
 
 ## 🌱 Atualmente estudando
 
-- JavaScript, Python e Git
+- JavaScript, Django e C
 - Desenvolvimento Full Stack
-- Práticas de versionamento e colaboração
+- Scrum
 
 ---
 
 ## 📈 Estatísticas do GitHub
 <div style="display:'flex';align-items:'center';justify-content:'center';">
-  <img width = "350vw" src= "https://github-readme-stats-fast.vercel.app/api?username=RiosGabri&show_icons=true&theme=radical">
-  <img src= "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RiosGabri&layout=compact&theme=radical">
+  <img  src= "https://github-readme-stats-fast.vercel.app/api?username=RiosGabri&show_icons=true&theme=radical">
+  <img width = "350vw" src= "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RiosGabri&layout=compact&theme=radical">
 </div>
 
 ---
