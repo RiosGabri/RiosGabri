@@ -31,18 +31,6 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante de **Ciência da Computação** 
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/RiosGabri" target="_blank" rel="noopener">
-    <img alt="GitHub" src="https://img.shields.io/badge/-RiosGabri-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:grp@cesar.school">
-    <img alt="Email" src="https://img.shields.io/badge/-grp@cesar.school-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielrioss/" target="_blank" rel="noopener">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 📗 Projetos em destaque
