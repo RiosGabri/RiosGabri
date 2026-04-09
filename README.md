@@ -55,9 +55,11 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante de **Ciência da Computação** 
 
 ## 🌱 Atualmente estudando
 
-- JavaScript, Django e C
-- Desenvolvimento Full Stack
-- Scrum
+- Django 
+- C
+- JavaScript
+- Java (em breve)
+- SQL (em breve)
 
 ---
 
@@ -71,7 +73,7 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante de **Ciência da Computação** 
 
 ## 📫 Contato
 - Email: [grp@cesar.school](mailto:grp@cesar.school)  
-- LinkedIn: [Gabriel Rios](https://www.linkedin.com/in/gabrielrioss/)  
+- LinkedIn: [Gabriel Rios](https://www.linkedin.com/in/gabrielparmera/)  
 - GitHub: [https://github.com/RiosGabri](https://github.com/RiosGabri)
 
 ---
