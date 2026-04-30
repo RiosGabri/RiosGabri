@@ -47,6 +47,7 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante de **Ciência da Computação** 
 - C
 - JavaScript
 - Java (em breve)
+- Assembly (em breve)
 - SQL (em breve)
 
 ---
