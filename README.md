@@ -14,7 +14,7 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante de **Ciência da Computação** 
 
 ## 🛠️ Tecnologias e ferramentas
 
-- Python
+- Python & Django
 - JavaScript
 - HTML & CSS
 - C
