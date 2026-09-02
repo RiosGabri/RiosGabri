@@ -16,8 +16,6 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante do terceiro período de **Ciênc
 
 ## Tecnologias e ferramentas
 
-## 🛠️ Tecnologias e ferramentas
-
 **Linguagens & Frameworks**
 
 <p align="left">
@@ -39,8 +37,6 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante do terceiro período de **Ciênc
 </p>
 
 ---
-
-## 📗 Projetos em destaque
 
 ## 📗 Projetos em destaque
 
