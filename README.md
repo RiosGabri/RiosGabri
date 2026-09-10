@@ -49,10 +49,11 @@ Sou **Gabriel Parméra (RiosGabri)**, estudante do terceiro período de **Ciênc
 
 Projeto de tecnologias comunitárias para risco de água e calor, vencedor da hackathon CESAR + Aries com apoio da prefeitura.
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 
-🔗 Repositório em breve
+🔗  [Ver Repositório](https://github.com/RiosGabri/Jardim_Sentinela)
 
 </td>
 <td align="center" width="50%">
@@ -61,8 +62,8 @@ Projeto de tecnologias comunitárias para risco de água e calor, vencedor da ha
 
 Plataforma médica para intensivistas pediátricos. Atuei como Tech Lead, liderando o desenvolvimento de um módulo de pesquisa em Django REST Framework (transações atômicas, auditoria, testes automatizados).
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
 
 
@@ -77,8 +78,8 @@ Plataforma médica para intensivistas pediátricos. Atuei como Tech Lead, lidera
 
 Aplicação web de gestão financeira pessoal: controle de gastos, investimentos, metas e assinaturas.
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img alt="Python" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 🔗 [Ver Repositório](https://github.com/DoctahW/organizei)
 
@@ -89,7 +90,7 @@ Aplicação web de gestão financeira pessoal: controle de gastos, investimentos
 
 Jogo com simulação física em C, usando Chipmunk2D e Raylib. Apresentado no evento acadêmico MostraTechDesign.
 
-<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
 🔗 [Ver Repositório](https://github.com/RiosGabri/Watermelon_Game)
 
